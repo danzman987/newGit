@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8aef09ba-cc45-4db9-8267-fea443073d99" name="Default" comment="" />
+=======
+    <list default="true" id="8aef09ba-cc45-4db9-8267-fea443073d99" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> 2380624f9ba4e12d0796a5d680c2f348702bb814
     <ignored path="newGit.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -378,13 +385,21 @@
       <created>1517669782977</created>
       <option name="number" value="Default" />
       <updated>1517669782977</updated>
+<<<<<<< HEAD
       <workItem from="1517669783638" duration="724000" />
       <workItem from="1517673684366" duration="6000" />
+=======
+      <workItem from="1517669783638" duration="2047000" />
+>>>>>>> 2380624f9ba4e12d0796a5d680c2f348702bb814
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="748000" />
+=======
+    <option name="totallyTimeSpent" value="2047000" />
+>>>>>>> 2380624f9ba4e12d0796a5d680c2f348702bb814
   </component>
   <component name="ToolWindowManager">
     <frame x="-2658" y="-547" width="1222" height="1407" extended-state="0" />
